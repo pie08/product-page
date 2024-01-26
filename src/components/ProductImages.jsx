@@ -2,7 +2,7 @@ import styled from "styled-components";
 import Lightbox from "./Lightbox";
 import LightboxProductImageContainer from "./LightboxProductImageContainer";
 import { useState } from "react";
-import RenderBreakpoint from "./renderBreakpoint";
+import RenderBreakpoint from "./RenderBreakpoint";
 
 const StyledProductImageContainer = styled.div`
   display: grid;
